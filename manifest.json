@@ -1,0 +1,9 @@
+{
+"short_name":"ContentStudio",
+"name":"ContentStudio",
+"icons":[],
+"start_url":"index.html",
+"background_color":"rgb(29,53,87)",
+"theme_color":"rgb(69,123,157)",
+"display":"fullscreen"
+}
